@@ -1,7 +1,6 @@
 # War Dialing Lab
 
-# change url
-![](https://github.com/preslielampitt/lab-wardialing/workflows/doctests/badge.svg)&nbsp;
+![](https://github.com/preslielampitt/lab-wardialing/actions/workflows/doctests.yml/badge.svg)&nbsp;
 
 #  brief 1 sentence explanation of what your project does.
 
