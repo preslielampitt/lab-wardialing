@@ -16,4 +16,4 @@ jobs:
           python-version: ${{matrix.python}}
       - name: Run tests
         run: |
-          python -m doctest wardial.py
+          python3 -m doctests wardial.py
